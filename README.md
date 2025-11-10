@@ -23,7 +23,8 @@ Seja para criar protótipos rápidos ou projetos mais robustos, estas são as te
 | :--- | :--- |
 | [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | Scripting em engines e ferramentas |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | Ferramentas web/prototipagem de interfaces |
-| [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#), [![Bootstrap](https://imgshields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) | Desenvolvimento Front-End |
+| [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#), 
+[![Bootstrap](https://imgshields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) | Desenvolvimento Front-End |
 | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) | Gerenciamento de dados simples em projetos |
 
 
