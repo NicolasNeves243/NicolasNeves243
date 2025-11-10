@@ -5,6 +5,17 @@
 * **Objetivo:** Transformar a imaginação em experiências interativas e divertidas.
 - ༼ つ ◕_◕ ༽つ
 
+### 🌐 Idiomas
+* **Português:** Nativo
+* **Japonês:** Proficiência em comunicação (Um diferencial para a cultura e inspiração em jogos!)
+
+---
+
+### 🌟 Onde o Código Encontra o Jogo
+
+Sou um programador apaixonado por resolver problemas e construir mundos, especializado na **lógica de *gameplay*** e na criação de sistemas robustos e eficientes. Estou constantemente explorando novas ferramentas para aprimorar minhas habilidades de *game design* e desenvolvimento.
+
+---
 
 ### 💻 Minhas Ferramentas de Criação
 
@@ -23,10 +34,10 @@ Seja para criar protótipos rápidos ou projetos mais robustos, estas são as te
 | :--- | :--- |
 | [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | Scripting em engines e ferramentas |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | Ferramentas web/prototipagem de interfaces |
-| [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#),| Desenvolvimento Front-End |
+| [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#), [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) | Desenvolvimento Front-End |
 | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) | Gerenciamento de dados simples em projetos |
 
-
+---
 
 ### 📫 Contatos ☎
 
