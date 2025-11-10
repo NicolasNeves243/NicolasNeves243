@@ -4,11 +4,7 @@
 * **Foco:** Futuro **Desenvolvedor de Games Indie** 🕹️
 * **Objetivo:** Transformar a imaginação em experiências interativas e divertidas.
 
-### 🌟 Onde o Código Encontra o Jogo
 
-Sou um programador apaixonado por resolver problemas e construir mundos, especializado na **lógica de *gameplay*** e na criação de sistemas robustos e eficientes. Estou constantemente explorando novas ferramentas para aprimorar minhas habilidades de *game design* e desenvolvimento.
-
----
 
 ### 💻 Minhas Ferramentas de Criação
 
@@ -30,20 +26,7 @@ Seja para criar protótipos rápidos ou projetos mais robustos, estas são as te
 | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#), [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#), [![Bootstrap](https://imgshields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) | Desenvolvimento Front-End |
 | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) | Gerenciamento de dados simples em projetos |
 
----
 
-### 🔭 O Que Estou Fazendo Agora (e Querendo Fazer!)
-
-- 🔭 Eu estou atualmente desenvolvendo um protótipo de **RPG tático 2D** em Unity para aplicar conceitos de POO em *game design*.
-- 🌱 Eu estou atualmente aprofundando meus estudos em **C#** e o ecossistema da **Unity**, com foco em **sistemas de inteligência artificial (IA)** para inimigos e NPCs.
-- 👯 Eu busco colaborar em projetos de jogos indie, especialmente onde eu possa atuar na **implementação de *gameplay*** e na **resolução de bugs**.
-- 🤔 Eu busco ajuda com otimização de código e arquitetura de projetos em larga escala para games.
-- 💬 Pergunte-me sobre lógica de *gameplay* ou como construir mecânicas de jogos.
-- 📫 Como me alcançar: **nicolasnhorta12@gmail.com**
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato Curioso: Eu sou fascinado por mecânicas de jogos de **mundo aberto** e como elas gerenciam a narrativa não-linear.
-
----
 
 ### 📫 Contatos ☎
 
