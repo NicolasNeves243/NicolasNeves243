@@ -3,7 +3,7 @@
 * **Idade:** 24 anos
 * **Foco:** Futuro **Desenvolvedor de Games Indie** 🕹️
 * **Objetivo:** Transformar a imaginação em experiências interativas e divertidas.
-
+- ༼ つ ◕_◕ ༽つ
 
 
 ### 💻 Minhas Ferramentas de Criação
@@ -31,6 +31,6 @@ Seja para criar protótipos rápidos ou projetos mais robustos, estas são as te
 ### 📫 Contatos ☎
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) nicolasnhorta12@gmail.com
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) @nicolas_neves02
 
 > "A maior glória em viver não está em nunca cair, mas em se levantar toda vez que caímos."
