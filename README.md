@@ -45,4 +45,4 @@ Seja para criar protótipos rápidos ou projetos mais robustos, estas são as te
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) nicolasnhorta12@gmail.com
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) @nicolas_neves02
 
-> "A maior glória em viver não está em nunca cair, mas em se levantar toda vez que caímos."
+> "A glória de um bom jogador não está em evitar o 'Game Over', mas em recomeçar com mais experiência a cada falha."
