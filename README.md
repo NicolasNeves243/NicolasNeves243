@@ -7,6 +7,7 @@
 
 ### 🌐 Idiomas
 * **Português:** Nativo
+* **Espanhol:** mediano 
 * **Japonês:** Proficiência em comunicação (Um diferencial para a cultura e inspiração em jogos!)
 
 ---
