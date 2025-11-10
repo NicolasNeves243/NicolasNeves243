@@ -11,9 +11,9 @@
 
 ---
 
-### 🌟 Onde o Código Encontra o Jogo
+### 🕹️ Um Poco Sobre Mim
 
-Sou um programador apaixonado por resolver problemas e construir mundos, especializado na **lógica de *gameplay*** e na criação de sistemas robustos e eficientes. Estou constantemente explorando novas ferramentas para aprimorar minhas habilidades de *game design* e desenvolvimento.
+Sou um programador apaixonado por construir mundos, especializado na **lógica de *gameplay*** e na criação de sistemas eficientes. Estou constantemente explorando novas ferramentas para aprimorar minhas habilidades de *game design* e desenvolvimento.
 
 ---
 
